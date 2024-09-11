@@ -26,7 +26,7 @@
         <ul class="main-nav">
             <li><a href="index.php" class="active">Dashboard</a></li>
             <li><a href="#second-container">Featured</a></li>
-            <li><a href="#third-container">Upcoming</a></li>
+            <li><a href="#third-container">Upcoming Events</a></li>
             <li><a href="src/screens/booking/BookingScreen.php">Booking</a></li>
             <li><a href="src/screens/tracking/TrackingLoginScreen.php">Tracking</a></li>
         </ul>
